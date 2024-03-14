@@ -8,8 +8,7 @@ function App() {
   }).catch((error) => {});
   return (
     <div className="App">
-      <p>lean react</p>
-      <Button type="primary">Button</Button>
+      我是App组件
     </div>
   );
 }
